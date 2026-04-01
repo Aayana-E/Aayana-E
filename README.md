@@ -17,7 +17,7 @@ https://aayanaevanson.com/
 - Languages: Python, Javascript, Java, C#, C
 
 ## What I'm Working on 
-- StatFprge
+- StatForge
 
 ## Contact
 - Github:
