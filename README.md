@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Aayana
 
-<!--
-**Aayana-E/Aayana-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer passionate about building real world applicaiton
 
-Here are some ideas to get you started:
+#Projects
+- Captains Connection Yacht Aganes
+  Full stack directory app with filtering, admin dashboard, CMS, and Firestore backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Portfolio
+https://aayanaevanson.com/
+
+## Tech Stack
+- Frontend: React, HTML, CSS
+- Backend: Firebase, Node.js
+- Tools: Git, Github
+- Languages: Python, Javascript, Java, C#, C
+
+## What I'm Working on 
+- StatFprge
+
+## Contact
+- Github:
+- Portfolio: https://aayanaevanson.com/
+- Linkedin: https://www.linkedin.com/in/aayana-evanson/
