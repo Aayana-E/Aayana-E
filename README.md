@@ -2,7 +2,7 @@
 
 Aspiring Software Engineer passionate about building real world applicaiton
 
-#Projects
+## Projects
 - Captains Connection Yacht Aganes
   Full stack directory app with filtering, admin dashboard, CMS, and Firestore backend
 
